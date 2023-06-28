@@ -7,7 +7,7 @@ This Discord bot is used to allow any privilaged person to manage your private M
 4. Change line 27 and 28 in Bot.py to point to your Minecraft Server
 5. Try running Bot.py
 # What to install
-You'll need:
-discord.py -->   pip install -U discord.py
-paramiko -->     pip install -U paramiko
+You'll need: 
+1. discord.py -->   pip install -U discord.py
+2. paramiko -->     pip install -U paramiko
 and that should be it.
