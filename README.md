@@ -1,5 +1,7 @@
 # Minecraft-ft.-discord-bot-
 This Discord bot is used to allow any privilaged person to manage your private Minecraft server.
+This project is very specific and I could imagine no one ever uses it but.
+For more infos on Discord bots see here:(https://discordpy.readthedocs.io/en/stable/) or here (https://pypi.org/project/discord.py/)
 # How to use
 1. Create a Bot accout in Discord. In order for you to  do that go to the developer portal (https://discord.com/developers/applications).
 2. Follow some steps to setup yourbot with the right privilages. I used this video https://www.youtube.com/watch?v=SPTfmiYiuok&pp=ygUSY3JlYXRlIGRpc2NvcmQgYm90
