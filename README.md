@@ -3,7 +3,7 @@ This Discord bot is used to allow any privilaged person to manage your private M
 # How to use
 1. Create a Bot accout in Discord. In order for you to  do that go to the developer portal (https://discord.com/developers/applications).
 2. Follow some steps to setup yourbot with the right privilages. I used this video https://www.youtube.com/watch?v=SPTfmiYiuok&pp=ygUSY3JlYXRlIGRpc2NvcmQgYm90
-3. with ethtools on your server type: sudo ethtool -s <INTERFACE> wol g
+3. with ethtools on your server type: sudo ethtool -s >INTERFACE< wol g
 4. Change the variables in .env to match your server and other device.
 5. Change line 27 and 28 in Bot.py to point to your Minecraft Server
 6. Try running Bot.py
